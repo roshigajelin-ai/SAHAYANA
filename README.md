@@ -1,5 +1,5 @@
 #  Sahayana
-### Accessibility. Safety. Dignity.
+### One Platform.Every Journey.Equal Access.
 
 **A more inclusive world, one barrier at a time.**
 
