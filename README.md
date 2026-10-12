@@ -17,16 +17,6 @@ Persons with disabilities often encounter barriers in public transportation, gov
 
 Sahayana aims to bridge these gaps through a user-centered, inclusive technology solution.
 
-## ✨ Key Features
-
-- ♿ **Accessibility Support** — Make digital information and everyday services easier to access.
-- 🚌 **Accessible Transportation** — Support users in finding relevant transport information and navigating travel challenges.
-- 💬 **Inclusive Communication** — Help reduce communication barriers between users and service providers.
-- 🏛️ **Government Service Assistance** — Make essential public-service information and procedures easier to understand.
-- 🛡️ **Personal Safety Support** — Help users access emergency contacts and assistance when needed.
-- 🤝 **Independence and Inclusion** — Encourage autonomy, equal opportunities, and respectful interactions.
-
-*Note: These are the intended feature areas. Actual capabilities depend on the features implemented by the project team.*
 
 ## 🎯 Our Mission
 
