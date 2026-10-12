@@ -1,19 +1,37 @@
-#  Sahayana
-### One Platform.Every Journey.Equal Access.
+SAHAYANA
 
-**A more inclusive world, one barrier at a time.**
+One Platform. Every Journey. Equal Access.
 
-## 🌍 About the Project
+About
 
-In India, everyday activities such as travelling on crowded public transport, accessing government services, communicating with others, and seeking help in unfamiliar or threatening situations can be challenging. For persons with disabilities, these challenges can create additional barriers to independence, safety, and dignity.
+SAHAYANA is a proposed accessibility platform designed to support children with disabilities in following daily routines, completing activities, and developing greater independence.
 
-**Sahayana** is an inclusive accessibility and safety platform designed to help address these challenges through technology. It aims to bring essential accessibility tools, communication assistance, safety support, and public-service information together in one unified platform.
+Problem Statement
 
-Our goal is to make everyday life more accessible, safer, and more inclusive for everyone.
+Children with disabilities may face challenges with communication, following multi-step instructions, and resuming interrupted activities. SAHAYANA aims to address these challenges through personalized guidance and activity memory.
 
-## 🎯 Problem Statement
+Proposed Features
 
-Persons with disabilities often encounter barriers in public transportation, government procedures, communication, personal safety, and social inclusion. The lack of accessible information and convenient support systems can make everyday tasks difficult and limit independent participation in society.
+- RecallVoice Integration: Remember and resume activities from the last completed step.
+- Visual & Audio Guidance: Provide child-friendly, step-by-step instructions.
+- Accessible Communication: Help children express basic needs through accessible interactions.
+- Personalized Activities: Adapt routines and prompts to individual needs.
+- Parent & Teacher Support: Enable caregivers and educators to configure activities.
 
-Sahayana aims to bridge these gaps through a user-centered, inclusive technology solution.
+Target Users
 
+- Children aged 6–14 who benefit from structured guidance.
+- Parents and caregivers.
+- Special education teachers and therapists.
+
+Current Status
+
+🚧 Concept Stage — Development Not Started
+
+Vision
+
+To help children with disabilities participate in everyday activities with greater confidence, continuity, and independence.
+
+---
+
+SAHAYANA — Making everyday activities more accessible, one step at a time.
